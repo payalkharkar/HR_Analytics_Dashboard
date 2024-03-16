@@ -15,5 +15,6 @@ The HR Analytics Dashboard project is designed to empower organizations in enhan
 - *Insights and Recommendations:* Actionable insights and recommendations are generated based on data analysis, assisting organizations in implementing strategies to improve organizational effectiveness.
 
 ## Data Preprocessing Workflow
-![Data Preprocessing Workflow](![Workflows Of Preprocessing](https://github.com/Dishantkharkar/HR-Analytics-Dashboard/assets/130529528/a4eeef99-de5c-4829-bbb3-16e1b0767be0)
+![HR_analytic_dashboard_steps](https://github.com/payalkharkar/HR_Analytics_Dashboard/assets/133576329/75341f0c-2bed-4639-a7c4-c8f4304d2613)
+
 
